@@ -6,22 +6,15 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: /#publications  
+    
+  - title: "Teaching Experience"
+    url: /#teaching-experience 
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Services"
+    url: /#academic-services
+  
+  - title: "Awards"
+    url: /#selected-awards
+  
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
