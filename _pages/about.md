@@ -61,7 +61,7 @@ Academic Services
 
 I am/was the (external) reviewer for the following conferences/journals:
 
-VLDB'25, ICDM'25, TKDD'24, VLDB'24, ICDE'24, WWW'24, SIGMOD'23, VLDB'23, ICDE'23, NeuroComputing'23, ICDM'23, TKDE'23, TODS'23, SIGIR'23, WWW'23, SIGMOD'22, ICDE'22, CIKM'22, KDD'22, IJCAI'22, WWW'22, etc.
+VLDB'25, VLDB'24, ICDE'24, WWW'24, ICDM'24, TKDD'24, SIGMOD'23, VLDB'23, ICDE'23, ICDM'23, TKDE'23, TODS'23, SIGIR'23, WWW'23, SIGMOD'22, ICDE'22, CIKM'22, KDD'22, IJCAI'22, WWW'22, etc.
 
 Selected Awards
 ======
