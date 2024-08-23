@@ -12,9 +12,9 @@ title                    : "Qiyan LI"
 title_separator          : "-"
 name                     : &name "Qiyan LI"
 description              : &description "Ph.D. student at the Chinese University of Hong Kong"
-url                      : https://qiyanli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://magic62442.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "magic62442/qiyanli.github.io"
+repository               : "magic62442/magic62442.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -44,6 +44,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "https://github.com/magic62442"
+  dblp             : "https://dblp.org/pid/20/3090-2.html"     
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -344,5 +345,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-    
+
 theme: jekyll-theme-cayman
