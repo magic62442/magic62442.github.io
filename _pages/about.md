@@ -9,38 +9,35 @@ redirect_from:
 
 I am a Ph.D. Student at the Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Jeffrey Xu YU](https://www.se.cuhk.edu.hk/people/academic-staff/prof-yu-xu-jeffrey/). Previously, I obtained my Bachelor's degree from Wuhan University in 2021.
 
-My research interests lie in graph data analytics, especially for subgraph matching and graph mining systems.
+My research interests lie in graph data analytics, especially for subgraph matching and graph mining algorithms.
 
 Publications
 ======
 
 {: #publications}
 
-1. **Qiyan LI**, Jeffrey Xu Yu.
+1. **Qiyan LI**, Jeffrey Xu Yu, Zongyan He.
+   <u>Subgraph Matching: A New Decomposition Based Approach</u>.
+   *Proceedings of the VLDB Endowment (**PVLDB**)*, Accepted, 2025.
+2. **Qiyan LI**, Jeffrey Xu Yu.
    <u>Fast Local Subgraph Counting</u>.
    *Proceedings of the VLDB Endowment (**PVLDB**)*, pages 1967-1980, 2024.
-
-2. **Qiyan LI**, Yuanyuan Zhu, Junhao Ye, Jeffrey Xu Yu.
+3. **Qiyan LI**, Yuanyuan Zhu, Junhao Ye, Jeffrey Xu Yu.
    <u>Skyline Group Queries in Large Road-social Networks Revisited</u>.
    *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)* 35(3), pages 3115-3129, 2023.
-
-3. Kangfei Zhao, Jeffrey Xu Yu, **Qiyan LI**, Hao Zhang, Yu Rong.
+4. Kangfei Zhao, Jeffrey Xu Yu, **Qiyan LI**, Hao Zhang, Yu Rong.
    <u>Learned Sketch for Subgraph Counting: a holistic approach</u>.
    *The VLDB Journal (**VLDBJ**)* 32 (5), pages 937-962, 2023.
-
-4. Hao Zhang, **Qiyan LI**, Kangfei Zhao, Jeffrey Xu Yu, Yuanyuan Zhu.
+5. Hao Zhang, **Qiyan LI**, Kangfei Zhao, Jeffrey Xu Yu, Yuanyuan Zhu.
    <u>How Learning Can Help Complex Cyclic Join Decomposition</u>.
    *IEEE International Conference on Data Engineering (**ICDE**)*, pages 3138-3141, 2022.
-
-5. Kangfei Zhao, Jeffrey Xu Yu, Hao Zhang, **Qiyan LI**, Yu Rong.
+6. Kangfei Zhao, Jeffrey Xu Yu, Hao Zhang, **Qiyan LI**, Yu Rong.
    <u>A Learned Sketch for Subgraph Counting</u>.
    *Proceedings of the ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, pages 2142-2155, 2021.
-
-6. Guanghua Li, **Qiyan Li**, Jingqiao Liu, Yuanyuan Zhu, Ming Zhong.
+7. Guanghua Li, **Qiyan Li**, Jingqiao Liu, Yuanyuan Zhu, Ming Zhong.
    <u>FANE: A Fusion-Based Attributed Network Embedding Framework</u>.
    *Web and Big Data: 5th International Joint Conference (**APWeb-WAIM**)*, pages 53-60, 2021.
-
-7. **Qiyan LI**, Yuanyuan Zhu, Jeffrey Xu Yu.
+8. **Qiyan LI**, Yuanyuan Zhu, Jeffrey Xu Yu.
    <u>Skyline cohesive group queries in large road-social networks</u>.
    *IEEE International Conference on Data Engineering (**ICDE**)*, pages 397-408, 2020.
 
@@ -49,10 +46,10 @@ Teaching Experience
 
 {: #teaching-experience}
 
-- TA of Fundamentals in Information Systems (SEEM3550) 2022 Spring, 2023 Spring, 2024 Spring@CUHK.
+- TA of Fundamentals in Information Systems (SEEM3550) 2022 Spring, 2023 Spring, 2024 Spring, 2025 Spring@CUHK.
 - TA of Advanced Database Technologies (FTEC4001), 2022 Fall, 2023 Fall, 2024 Fall@CUHK.
 - TA of Introduction to Blockchain and Distributed Ledger Technology (FTEC 4007), 2021 Fall@CUHK
-- TA of Open Systems and Electronic Commerce (SEEM5770 / ECLT5840), 2023 Fall
+- TA of Open Systems and Electronic Commerce (SEEM5770 / ECLT5840), 2023 Fall, 2025 Spring@CUHK
 
 Academic Services
 ======
