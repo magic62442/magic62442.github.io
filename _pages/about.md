@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Student at the Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Jeffrey Xu YU](https://www.se.cuhk.edu.hk/people/academic-staff/prof-yu-xu-jeffrey/). Previously, I obtained my Bachelor's degree from Wuhan University in 2021.
+I am a Ph.D. Student at the Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong (CUHK), co-supervised by [Prof. Jeffrey Xu YU](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YU-JEFFREYXU/jeffreyxuyu) and [Prof. Hong Cheng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-cheng-hong/). Previously, I obtained my Bachelor's degree from Wuhan University in 2021.
 
 My research interests lie in graph data analytics, especially for subgraph matching and graph mining algorithms.
 
@@ -18,7 +18,7 @@ Publications
 
 1. **Qiyan LI**, Jeffrey Xu Yu, Zongyan He.
    <u>Subgraph Matching: A New Decomposition Based Approach</u>.
-   *Proceedings of the VLDB Endowment (**PVLDB**)*, Accepted, 2025.
+   *Proceedings of the VLDB Endowment (**PVLDB**)*, pages 4282-4294, 2025.
 2. **Qiyan LI**, Jeffrey Xu Yu.
    <u>Fast Local Subgraph Counting</u>.
    *Proceedings of the VLDB Endowment (**PVLDB**)*, pages 1967-1980, 2024.
@@ -58,7 +58,7 @@ Academic Services
 
 I am/was the (external) reviewer for the following conferences/journals:
 
-VLDB'25, VLDB'24, ICDE'24, WWW'24, ICDM'24, TKDD'24, SIGMOD'23, VLDB'23, ICDE'23, ICDM'23, TKDE'23, TODS'23, SIGIR'23, WWW'23, SIGMOD'22, ICDE'22, CIKM'22, KDD'22, IJCAI'22, WWW'22, etc.
+VLDB'26, VLDB'25, VLDB'24, ICDE'24, WWW'24, ICDM'24, TKDD'24, SIGMOD'23, VLDB'23, ICDE'23, ICDM'23, TKDE'23, TODS'23, SIGIR'23, WWW'23, SIGMOD'22, ICDE'22, CIKM'22, KDD'22, IJCAI'22, WWW'22, etc.
 
 Selected Awards
 ======
