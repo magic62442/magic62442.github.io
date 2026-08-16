@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Qiyan LI"
 title_separator          : "-"
 name                     : &name "Qiyan LI"
-description              : &description "Ph.D. student at the Chinese University of Hong Kong"
+description              : &description "Postdoctoral Fellow at The Chinese University of Hong Kong"
 url                      : https://magic62442.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "magic62442/magic62442.github.io"
@@ -21,10 +21,10 @@ repository               : "magic62442/magic62442.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zhengjianzhao2-white.png"
+  avatar           : "qiyan-li-profile.jpg"
   name             : "Qiyan LI"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student at the Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong"
+  bio              : "Postdoctoral Fellow at the Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong"
   location         : "Shatin, Hong Kong"
   employer         : #"The Chinese University of Hong Kong"
   uri              : # URL

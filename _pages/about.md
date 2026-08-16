@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Student at the Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong (CUHK), co-supervised by [Prof. Jeffrey Xu YU](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YU-JEFFREYXU/jeffreyxuyu) and [Prof. Hong Cheng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-cheng-hong/). Previously, I obtained my Bachelor's degree from Wuhan University in 2021.
+I am a Postdoctoral Fellow at the Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong (CUHK). I received my Ph.D. degree from CUHK in July 2026, co-supervised by [Prof. Jeffrey Xu YU](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YU-JEFFREYXU/jeffreyxuyu) and [Prof. Hong Cheng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-cheng-hong/). Previously, I obtained my Bachelor's degree from Wuhan University in 2021.
 
 My research interests lie in graph data analytics, especially for subgraph matching and graph mining algorithms.
 
@@ -30,6 +30,14 @@ Publications
 
 <h2 id="conference-papers">Conference Papers</h2>
 <div class="pub-list">
+  <div class="pub-item">
+    <div class="pub-title">
+      <strong>[CIKM'26]</strong> Cimos: Cost-Effective Multi-Query Oriented Continuous Subgraph Matching
+    </div>
+    <div class="pub-authors">Ziqi Zou, Kangfei Zhao, <span class="me">Qiyan LI</span>, Zhiwei Zhang, Lizhong Ding, Xuefeng Zhao, Peng Wu</div>
+    <div class="pub-venue">ACM International Conference on Information and Knowledge Management (CIKM), 2026</div>
+  </div>
+
   <div class="pub-item">
     <div class="pub-title">
       <strong>[PVLDB'26]</strong> Subgraph Enumeration: Beyond Tree Decomposition
@@ -156,7 +164,7 @@ Academic Services
 
 I am/was the (external) reviewer for the following conferences/journals:
 
-VLDB'27, VLDB'26, ICDE'26, TKDE'26, VLDB'25, ICDE'25, ICDM'25, TKDE'25, VLDB'24, ICDE'24, WWW'24, ICDM'24, TKDD'24, SIGMOD'23, VLDB'23, ICDE'23, ICDM'23, TKDE'23, TODS'23, SIGIR'23, WWW'23, SIGMOD'22, ICDE'22, CIKM'22, KDD'22, IJCAI'22, WWW'22, etc.
+VLDB'27, ICDE'27, VLDB'26, ICDE'26, TKDE'26, VLDB'25, ICDE'25, ICDM'25, TKDE'25, VLDB'24, ICDE'24, WWW'24, ICDM'24, TKDD'24, SIGMOD'23, VLDB'23, ICDE'23, ICDM'23, TKDE'23, TODS'23, SIGIR'23, WWW'23, SIGMOD'22, ICDE'22, CIKM'22, KDD'22, IJCAI'22, WWW'22, etc.
 
 Selected Awards
 ======
