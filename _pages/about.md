@@ -42,6 +42,7 @@ Publications
     <div class="pub-title">
       <strong>[PVLDB'26]</strong> Subgraph Enumeration: Beyond Tree Decomposition
       <span class="pub-links">
+        <a href="https://www.vldb.org/pvldb/vol19/p2303-li.pdf" title="PDF" aria-label="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
         <a href="https://github.com/magic62442/subgraph-enumeration" title="Code" aria-label="Code"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
       </span>
     </div>
